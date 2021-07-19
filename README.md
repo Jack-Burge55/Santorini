@@ -1,5 +1,5 @@
 # Santorini
-Basic pygame Santorini logic game
+
 This pygame models the basic version of the great board game Santorini, where two players (each with two builders) compete to see who can be first to place one of their builders 
 on the top of a tower ( a level 3). 
 ## Builder Placement
@@ -18,4 +18,5 @@ A player wins when one of their two builders reaches a level 3, or when the oppo
 This was my first attempt at using Pygame, and being a relative novice I am sure this could be improved somewhat. For example, the original game comes with 30 "God Cards". Each
 player selects a God before builder placement and this grants them a particular power (or their opponent a difficult restriction!). This would be a fun progression of the program
 to code in.
+## Credits
 Made by Jack Burgess
