@@ -29,14 +29,14 @@ board = [[0, 0, 0, 0, 0],
 
 # Example
 # level_one = pygame.image.load("C:\\Users\\Jack\\Desktop\\Graphics\\level_one.png").convert_alpha()
-level_one = pygame.image.load("C:\\Users\\jackb\OneDrive\\Desktop\\Graphics\\level_one.png").convert_alpha()
-level_two = pygame.image.load("C:\\Users\\jackb\OneDrive\\Desktop\\Graphics\\level_two.png").convert_alpha()
-level_three = pygame.image.load("C:\\Users\\jackb\OneDrive\\Desktop\\Graphics\\level_three.png").convert_alpha()
-level_four = pygame.image.load("C:\\Users\\jackb\OneDrive\\Desktop\\Graphics\\level_four.png").convert_alpha()
-p_builder = pygame.image.load("C:\\Users\\jackb\OneDrive\\Desktop\\Graphics\\p_builder.png").convert_alpha()
-b_builder = pygame.image.load("C:\\Users\\jackb\OneDrive\\Desktop\\Graphics\\b_builder.png").convert_alpha()
-selector = pygame.image.load("C:\\Users\\jackb\OneDrive\\Desktop\\Graphics\\selector.png").convert_alpha()
-grass = pygame.image.load("C:\\Users\\jackb\\OneDrive\\Desktop\\Graphics\\grass.png").convert_alpha()
+level_one = pygame.image.load("Santorini\level_one.png").convert_alpha()
+level_two = pygame.image.load("Santorini\level_two.png").convert_alpha()
+level_three = pygame.image.load("Santorini\level_three.png").convert_alpha()
+level_four = pygame.image.load("Santorini\level_four.png").convert_alpha()
+p_builder = pygame.image.load("Santorini\p_builder.png").convert_alpha()
+b_builder = pygame.image.load("Santorini\\b_builder.png").convert_alpha()
+selector = pygame.image.load("Santorini\selector.png").convert_alpha()
+grass = pygame.image.load("Santorini\grass.png").convert_alpha()
 
 height_dict = {-1: grass,0: level_one, 1: level_two, 2: level_three, 3: level_four}
 
